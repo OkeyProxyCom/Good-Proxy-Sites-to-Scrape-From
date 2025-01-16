@@ -48,7 +48,9 @@ Examine anti-scraping tactics including IP bans and CAPTCHA. Choose proxies suit
 Determine Proxy Type
 
 [Residential Proxies](https://www.okeyproxy.com/en/residential-proxies): Ideal for evading detection, utilizing real IP addresses.
+
 [Data Center Proxies](https://www.okeyproxy.com/en/datacenter-proxies): Economical for bulk scraping but more prone to blocks.
+
 Static vs. Rotating Proxies: Static proxies are good for maintaining sessions, whereas rotating proxies excel in bypassing rate limitations.
 
 Assess Proxy Network and Geolocation
